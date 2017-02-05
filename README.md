@@ -1,6 +1,8 @@
 # README
 This is the sample app project from Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/book).
 
+[See the app live.](https://intense-taiga-58047.herokuapp.com/)
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
